@@ -17,10 +17,10 @@ I have 10 years of experience as a developer and 5 years as a programming instru
 Currently, I work mainly with the **JavaScript ecosystem**, both frontend and backend (**Next.js, React, Nest.js, Node.js, TypeScript**), as well as **Ruby on Rails**.  
 
 ## Education
-Graduated in System Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo
+Graduated in System Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo.
 
 ## Articles
-You can read my articles on the Trainweb blog: <a href="https://www.treinaweb.com.br/blog/autor/wesley-gado">Wesley's Articles</a>
+You can read my articles on the Trainweb blog: <a href="https://www.treinaweb.com.br/blog/autor/wesley-gado">Wesley's Articles.</a>
 
 ## Connect with me:
 
