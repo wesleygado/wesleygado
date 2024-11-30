@@ -29,7 +29,7 @@ You can read my articles on the Trainweb blog: <a href="https://www.treinaweb.co
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,typescript,nestjs,nodejs,nextjs,react,mysql,postgres,npm,ruby,rails&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,typescript,nestjs,nodejs,nextjs,react,prisma,express,jest,mysql,postgres,npm,ruby,rails&perline=10)](https://skillicons.dev)
   
 
 ## Github Stats  
