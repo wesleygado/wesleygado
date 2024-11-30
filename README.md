@@ -1,22 +1,23 @@
-## Olá / Hi!
-Me chamo Wesley, sou formado em Análise e Desenvolvimento de Sistemas desde 2014. Trabalhei como freelancer em projetos envolvendo as mais variadas 
-tecnologias, como: Ruby on Rails, Flutter, WordPress, Flutter, HTML, CSS, JavaScript, TypeScript, Bootstrap, Etc.
+## Hi!
 
-Hoje atuo como instrutor de Node.js e Nest.js na TreinaWeb e continuo trabalhando em projetos paralelos como desenvolvedor.
+My name is Wesley, and I am a full-stack developer with a degree in Systems Analysis and Development from the Federal Institute of São Paulo.  
 
---
+I specialize in backend development, with solid experience in the following stack:  
+- **JavaScript/TypeScript**  
+- **Node.js**  
+- **Prisma/TypeORM**  
+- **REST APIs**  
+- **Relational databases** (MySQL, PostgreSQL)  
+- Among other technologies.  
 
-My name is Wesley, I have a degree in Systems Analysis and Development since 2014. I worked as a freelancer on projects involving the most distributed
-technologies: Ruby on Rails, Flutter, WordPress, Flutter, HTML, CSS, JavaScript, TypeScript, Bootstrap, etc.
+Recently, I have been expanding my knowledge in frontend development, gaining experience with **Next.js** and **React**.  
 
-Now, I'm Node.js and Nest.js instructor at TreinaWeb and continue to work on parallel projects as a developer.
+I have 10 years of experience as a developer and 5 years as a programming instructor. My journey is defined by continuous learning and sharing knowledge, always improving my skills and taking on new responsibilities.  
 
-## Formação / Education
+Currently, I work mainly with the **JavaScript ecosystem**, both frontend and backend (**Next.js, React, Nest.js, Node.js, TypeScript**), as well as **Ruby on Rails**.  
+
+## Education
 Graduated in System Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo
-
---
-
-Formado em Análise e Desenvolvimento de Sistema no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
 
 ## Articles
 You can read my articles on the Trainweb blog: <a href="https://www.treinaweb.com.br/blog/autor/wesley-gado">Wesley's Articles</a>
