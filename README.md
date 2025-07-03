@@ -5,7 +5,8 @@ My name is Wesley, and I am a full-stack developer with a degree in Systems Anal
 I specialize in backend development, with solid experience in the following stack:  
 - **JavaScript/TypeScript**  
 - **Node.js**  
-- **Prisma/TypeORM**  
+- **Prisma/TypeORM**
+- **NestJS**  
 - **REST APIs**  
 - **Relational databases** (MySQL, PostgreSQL)  
 - Among other technologies.  
